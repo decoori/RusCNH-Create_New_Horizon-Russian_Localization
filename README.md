@@ -12,4 +12,4 @@
 Перевод выполнен с помощью скрипта на базе Google Translate, поэтому содержит множество неточностей. Цветовые коды и технические теги сохранены. 
 
 ## ⚠️ Примечание
-Перевод выполнен с помощью скрипта на базе Google Translate. Если вы нашли критическую ошибку или неверный перевод технического термина, пожалуйста, создайте [Issue](https://github.com/decoori/RusCNH-Create_New_Horizon-Russian_Localization/issues).
+Перевод выполнен с помощью скрипта на базе Google Translate. Если вы нашли критическую ошибку, пожалуйста, создайте [Issue](https://github.com/decoori/RusCNH-Create_New_Horizon-Russian_Localization/issues).
